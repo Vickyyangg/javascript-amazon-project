@@ -65,7 +65,7 @@ class Clothing extends Product{
   }
 
   extraInfoHTML() {
-    // super.extraInforHTML();
+    // super.extraInfoHTML();
     return `
       <a href="${this.sizeChartLink}" target= "_blank">
         size chart
